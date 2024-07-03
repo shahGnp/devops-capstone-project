@@ -1,6 +1,6 @@
 ---
-name: devops-capstone-project
-about: It is used to create an issue with kanban board
+name: user-story
+about: Used for devops capstone project issue pipeline
 title: ''
 labels: ''
 assignees: ''
